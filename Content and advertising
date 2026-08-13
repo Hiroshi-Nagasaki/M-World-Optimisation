@@ -1,0 +1,29 @@
+{
+    "skill_name": "Content & Advertising",
+    "description": "Creates, publishes, and analyses marketing content and advertising.",
+    "can_do": [
+        "Create social media posts",
+        "Generate marketing images",
+        "Create blog articles",
+        "Create promotional videos",
+        "Create UGC-style videos",
+        "Create Meta ads",
+        "Publish content to supported social platforms",
+        "Research competitors and marketing topics",
+        "Analyse available marketing performance data"
+    ],
+    "cannot_do": [
+        "Spend or change advertising budgets without approval",
+        "Make financial transactions",
+        "Publish to unsupported platforms",
+        "Access data or accounts that have not been connected"
+    ],
+    "kpis": {
+        "total_impressions": "Aggregate impressions across all campaign artifacts.",
+        "avg_engagement_rate": "Engagement-to-impression ratio across published content.",
+        "total_ad_spend": "Cumulative spend across all active ad variants.",
+        "total_conversions": "Count of artifacts that reached 'published' status.",
+        "seo_articles_published": "Number of SEO articles in 'published' state.",
+        "seo_total_words": "Aggregate word count across all generated SEO content."
+    }
+}

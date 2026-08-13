@@ -1,0 +1,25 @@
+{
+    "skill_name": "Full-Stack App Builder",
+    "description": "Creates, deploys, and updates full-stack web applications based on the business requirements.",
+    "can_do": [
+        "Create full-stack web applications",
+        "Create business websites",
+        "Create landing pages",
+        "Create application interfaces and pages",
+        "Create databases required by the application",
+        "Add supported application functionality",
+        "Update existing applications",
+        "Modify application design and content",
+        "Deploy generated applications",
+        "Store and manage application data",
+        "Fix and redeploy supported application issues"
+    ],
+    "cannot_do": [
+        "Build functionality that is not supported by the application builder",
+        "Deploy to unsupported infrastructure providers",
+        "Access or modify protected system credentials or API keys",
+        "Modify external code repositories that are not managed by the system",
+        "Make financial transactions or manage banking operations",
+        "Assume a deployment or update is successful until deployment validation is completed"
+    ]
+}

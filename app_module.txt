@@ -1,0 +1,88 @@
+{
+  "module": "App-Based Business",
+
+  "business_model": {
+    "definition": "A business where a software application is the primary interface through which users access, use, or transact with the core offering.",
+    "fundamental_structure": "Business/App → User",
+    "primary_participant": "User",
+    "offering_type": "Digital application or app-enabled service",
+    "structure_note": "App-based businesses may be single-sided or multi-sided depending on whether multiple participant groups directly interact through the application."
+  },
+
+  "industry_basics": {
+    "fundamental_flow": [
+      "Discovery",
+      "Signup or Installation",
+      "Onboarding",
+      "Activation",
+      "Core App Usage",
+      "Transaction or Value Creation",
+      "Repeat Usage",
+      "Retention"
+    ],
+    "common_characteristics": [
+      "Technology-driven",
+      "Usage-driven",
+      "Experience-sensitive",
+      "Retention-sensitive",
+      "Scalability-driven",
+      "Network-dependent where applicable"
+    ],
+    "important_concepts": [
+      "User",
+      "Active User",
+      "Signup",
+      "Activation",
+      "Session",
+      "Core Action",
+      "Transaction",
+      "Retention",
+      "Churn",
+      "Engagement",
+      "Network Effects"
+    ]
+  },
+
+  "north_star_metric": {
+    "primary": "Monthly Active Users",
+    "other_common_candidates": [
+      "Weekly Active Users",
+      "Daily Active Users",
+      "Core Actions Completed",
+      "Transactions Completed",
+      "Active Paying Users"
+    ]
+  },
+
+  "common_kpis": [
+    "Monthly Active Users",
+    "Weekly Active Users",
+    "Daily Active Users",
+    "New Users",
+    "Activation Rate",
+    "User Retention",
+    "Churn Rate",
+    "Sessions per User",
+    "Core Actions Completed",
+    "Transactions Completed",
+    "Conversion to Paid",
+    "Customer Acquisition Cost"
+  ],
+
+  "typically_high_activity_functions": [
+    "Technology and Product",
+    "User Experience and Design",
+    "Marketing",
+    "Strategy and Management"
+  ],
+
+  "core_memory_guidance": [
+    "Use this module only as general context for app-based businesses.",
+    "First determine whether the business is single-sided, two-sided, or multi-sided from the founder's actual business model.",
+    "Do not assume all app businesses are marketplaces, subscription businesses, social networks, or SaaS products.",
+    "Do not assume that every app business has all listed characteristics.",
+    "Use founder information and industry research to determine which characteristics actually apply.",
+    "Do not convert KPIs, concepts, or business characteristics into strategies or recommendations.",
+    "Do not insert generic app-business information into Core Memory unless it materially helps explain the specific business."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "skill_name": "Online Ecommerce Store Builder",
+    "description": "Creates and manages online ecommerce stores for businesses selling their own products.",
+    "can_do": [
+        "Create and deploy an ecommerce website",
+        "Create and update product pages",
+        "Add and manage products",
+        "Organise products into categories",
+        "Update product information and pricing",
+        "Manage available inventory information",
+        "Manage storefront content and design",
+        "Connect and manage custom domains where supported",
+        "Maintain customer and order information",
+        "Manage website policy pages such as Privacy Policy and Refund Policy",
+        "Analyse available website traffic and engagement data"
+    ],
+    "cannot_do": [
+        "Build or manage multi-vendor marketplaces",
+        "Make financial transactions or bank transfers",
+        "Access or modify payment gateway credentials or banking information",
+        "Change tax, payout, or banking configurations unless explicitly supported and authorised",
+        "Perform functionality that is not supported by the ecommerce store system"
+    ]
+}

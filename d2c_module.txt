@@ -1,0 +1,81 @@
+{
+  "module": "D2C",
+
+  "business_model": {
+    "definition": "A business that sells physical products directly to end customers.",
+    "fundamental_structure": "Business → Customer",
+    "primary_participant": "Customer",
+    "offering_type": "Physical product"
+  },
+
+  "industry_basics": {
+    "fundamental_flow": [
+      "Product",
+      "Customer Discovery",
+      "Purchase",
+      "Payment",
+      "Fulfilment",
+      "Delivery",
+      "Product Usage",
+      "Repeat Purchase"
+    ],
+    "common_characteristics": [
+      "Product-driven",
+      "Brand-sensitive",
+      "Marketing-sensitive",
+      "Conversion-sensitive",
+      "Fulfilment-dependent",
+      "Inventory-dependent"
+    ],
+    "important_concepts": [
+      "Product",
+      "SKU",
+      "Inventory",
+      "Order",
+      "Average Order Value",
+      "Customer Acquisition",
+      "Conversion",
+      "Repeat Purchase",
+      "Returns",
+      "Fulfilment"
+    ]
+  },
+
+  "north_star_metric": {
+    "primary": "Number of Products Sold",
+    "other_common_candidates": [
+      "Number of Orders",
+      "Net Revenue",
+      "Repeat Customers",
+      "Contribution Profit"
+    ]
+  },
+
+  "common_kpis": [
+    "Products Sold",
+    "Orders",
+    "Net Revenue",
+    "Average Order Value",
+    "Conversion Rate",
+    "Customer Acquisition Cost",
+    "Repeat Purchase Rate",
+    "Gross Margin",
+    "Return Rate",
+    "Inventory Turnover"
+  ],
+
+  "typically_high_activity_functions": [
+    "Marketing",
+    "Branding and Design",
+    "Commerce",
+    "Operations and Fulfilment"
+  ],
+
+  "core_memory_guidance": [
+    "Use this module only as general D2C context.",
+    "Do not assume that every D2C business has all listed characteristics.",
+    "Use founder information and industry research to determine which characteristics actually apply.",
+    "Do not convert KPIs, concepts or business characteristics into strategies or recommendations.",
+    "Do not insert generic D2C information into Core Memory unless it materially helps explain the specific business."
+  ]
+}
