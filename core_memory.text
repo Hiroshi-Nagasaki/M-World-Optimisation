@@ -1,0 +1,144 @@
+{
+  "founder_context": {
+    "business_name": "Uber",
+    "business_description": "Uber is an app-based transportation business that connects riders with nearby drivers for on-demand rides.",
+    "offering": "Rides",
+    "how_it_works": "Riders use the Uber app to request transportation from nearby drivers. Drivers accept ride requests, pick up riders, complete the journey, and the platform coordinates the transaction.",
+    "stated_differentiation": "Fast, convenient rides available on demand through a single app.",
+    "starting_geography": "United States",
+    "stated_competitors": [
+      "Lyft",
+      "DiDi",
+      "Grab",
+      "Bolt"
+    ],
+    "vision": "Make transportation accessible, reliable, and seamless everywhere.",
+    "core_kpi": "Completed Rides",
+    "additional_context": "Website: Uber.com. Preferred design direction is minimal, modern, functional, and trustworthy. Existing privacy policy and terms apply. Available assets include the Uber logo, brand guidelines, app screenshots, and marketing assets."
+  },
+
+  "business": {
+    "industry": "Transportation",
+    "category": "Ride-Hailing",
+    "subcategory": "On-Demand Mobility",
+    "business_type": "App-Based Business",
+    "offering_type": "App-enabled transportation service",
+    "factual_description": "Uber is an app-based ride-hailing platform that connects riders seeking transportation with drivers providing rides."
+  },
+
+  "business_structure": {
+    "structure_type": "Two-Sided Platform",
+    "participant_count": 2,
+    "participants": [
+      {
+        "participant": "Riders",
+        "role": "Request, take, and pay for rides.",
+        "how_the_offering_interacts_with_them": "The platform enables riders to request transportation, connect with available drivers, track rides, make payments, and complete journeys."
+      },
+      {
+        "participant": "Drivers",
+        "role": "Accept ride requests and provide transportation to riders.",
+        "how_the_offering_interacts_with_them": "The platform provides drivers with ride requests and the information required to pick up riders and complete journeys."
+      }
+    ],
+    "structure_summary": "Uber operates as a two-sided platform connecting riders who need transportation with drivers who provide it. The platform coordinates matching and the ride transaction between both participant groups."
+  },
+
+  "industry_intelligence": {
+    "industry_type": [
+      "Technology-driven",
+      "Convenience-driven",
+      "On-demand",
+      "Location-dependent",
+      "Network-dependent",
+      "Experience-sensitive"
+    ],
+    "how_the_industry_operates": "Ride-hailing platforms digitally match transportation demand from riders with available drivers in the same geographic area. Riders request trips, drivers accept requests and provide transportation, and the platform coordinates the interaction and transaction.",
+    "defining_characteristics": [
+      "The digital platform coordinates a physical transportation service.",
+      "Rider and driver availability must overlap geographically and temporally.",
+      "Driver availability affects the platform's ability to fulfil ride demand.",
+      "Ride demand and supply vary by location and time.",
+      "Convenience, availability, reliability, safety, and service experience materially influence value.",
+      "The platform serves riders and drivers differently."
+    ],
+    "primary_value_drivers": [
+      "Ride availability",
+      "Convenience",
+      "Pickup speed",
+      "Reliability",
+      "Safety",
+      "Ease of use",
+      "Geographic availability"
+    ],
+    "important_industry_concepts": [
+      "Rider",
+      "Driver",
+      "Ride request",
+      "Driver availability",
+      "Matching",
+      "Pickup",
+      "Trip",
+      "Completed Ride",
+      "Location",
+      "Ride demand"
+    ]
+  },
+
+  "competitors": [
+    {
+      "name": "Lyft",
+      "description": "A transportation platform connecting riders with drivers for on-demand rides.",
+      "main_offering": "Ride-hailing",
+      "category": "On-demand mobility",
+      "geography": "North America",
+      "relevance": "A directly comparable ride-hailing platform serving riders and drivers."
+    },
+    {
+      "name": "DiDi",
+      "description": "A mobility platform providing app-based transportation services.",
+      "main_offering": "Ride-hailing and mobility services",
+      "category": "On-demand mobility",
+      "geography": "Multiple international markets",
+      "relevance": "A major international platform operating a comparable ride-hailing model."
+    },
+    {
+      "name": "Grab",
+      "description": "A consumer platform providing ride-hailing and other on-demand services.",
+      "main_offering": "Ride-hailing and local services",
+      "category": "On-demand mobility",
+      "geography": "Southeast Asia",
+      "relevance": "A major regional platform with a comparable app-based transportation offering."
+    },
+    {
+      "name": "Bolt",
+      "description": "A mobility platform providing app-based ride-hailing and related transportation services.",
+      "main_offering": "Ride-hailing",
+      "category": "On-demand mobility",
+      "geography": "Multiple international markets",
+      "relevance": "A directly comparable app-based ride-hailing platform."
+    }
+  ],
+
+  "ao_scope": {
+    "objective": "Increase Completed Rides using only the capabilities available to this AO.",
+    "available_levers": [
+      "Marketing and digital rider acquisition",
+      "Sales, CRM, communication, retention and reactivation",
+      "Website, supported web applications and digital experiences",
+      "Branding and digital creative",
+      "Accounting, budget forecasting and taxation"
+    ],
+    "out_of_scope": [
+      "Driver recruitment and physical driver operations",
+      "Vehicle operations and fleet management",
+      "Physical transportation and ride fulfilment",
+      "General development of Uber's underlying ride-hailing technology beyond supported web capabilities",
+      "Physical safety operations",
+      "Other capabilities not provided to the AO"
+    ]
+  },
+
+  "version": "1.1.0",
+  "last_updated": "2026-08-13"
+}
