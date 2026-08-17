@@ -1,0 +1,31 @@
+Number of pages:
+1. Business type: Sell Products/ App Based Business/ AI Startup
+2. Business Name (That is it)
+3. What product do you sell?: Bottle, Mugs, Something like one word
+4. About the Product
+5. USP of the Product
+
+Page 2:
+
+6. Share your website or LinkedIn profile or about you.(Optional)
+7. Who are your main competitors? 
+8. Tell about your design style.
+8. Core KPI? (Very important) (Drop down, or other)
+9. What is your long-term vision for this company?
+
+Page3:
+
+country: 
+timezone:
+policies: Privacy policies
+
+Page4: 
+
+Any image, video, or asset you have for the business like logo, design book. 
+
+Create Business
+
+
+
+
+------business model: elaborate:
